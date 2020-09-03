@@ -26,4 +26,4 @@ When the program ends, it will show the total price of the bill and the detail.
 ![bill image](images/bill.PNG)
 
 
-### Developed by: Dámaso Sánchez Arenas###
+### Developed by: Dámaso Sánchez Arenas
